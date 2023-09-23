@@ -14,6 +14,8 @@ Travel Management System is a Java application streamlines travel planning and b
 ## Overview
 
 The Travel Management System is a Java-based application designed to simplify travel planning and booking processes. It allows users to input their details, select destinations, flight classes, and additional services, calculates total costs with taxes, generates detailed receipts, and automatically saves the receipt as a text file. This application aims to enhance the travel experience by offering a user-friendly and efficient platform for travelers.
+![Application Screenshot]()
+
 
 ## Features
 
